@@ -39,7 +39,7 @@ Você pode testar a função chamando-a com uma sequência de caracteres alfanum
 
 */
 
-javascript
+//javascript
 
 const code = "abc123xyz456";
 const numberId = obterNumeros(code);
